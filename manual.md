@@ -9,6 +9,7 @@
 |テキスト |テキスト
 |交通費 |電車
 ![わんこ](img/dog.jpg)
+ダウンロードページよりダウンロード（https://github.com/sktmy/OfficeWorkManual/edit/main/manual.md）
 
 改行してみた
 ## 経費の精算について
