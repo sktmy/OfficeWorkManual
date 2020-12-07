@@ -8,7 +8,7 @@
 |テキスト |テキスト
 |テキスト |テキスト
 |交通費 |電車
-![わんこ](img/dog2.jpg)
+![わんこ](img/dog.jpg)
 ダウンロードページよりダウンロード（https://github.com/sktmy/OfficeWorkManual/edit/main/manual.md）
 
 改行してみた
